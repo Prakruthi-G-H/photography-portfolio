@@ -30,6 +30,8 @@ A personal photography portfolio website showcasing my best captured moments wit
 3. Open `Photography.html` to view the homepage  
 4. No backend or server setup required
 
+## ✨ Future Enhancements
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  
