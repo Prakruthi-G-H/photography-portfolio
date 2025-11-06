@@ -34,6 +34,7 @@ A personal photography portfolio website showcasing my best captured moments wit
 
 - Add category filters (e.g., nature, portraits, travel)
 - Include JavaScript animations for transitions
+- Add backend support (Java + MySQL) to store contact form submissions
 
   
 ## 👩‍💻 Developed by
