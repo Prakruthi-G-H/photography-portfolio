@@ -8,7 +8,7 @@ A personal photography portfolio website showcasing my best captured moments wit
 - 🖼️ **Portfolio Gallery** – Multiple images displayed in a grid layout
 - 🙋‍♀️ **About Me** – Short intro and purpose
 - 📬 **Contact Form** – Simple form with name, email, and message fields
-- 🎨 Responsive Design – Works on different screen sizes
+- 🎨 **Responsive Design** – Works on different screen sizes
 
 ## 🛠️ Technologies Used
 
