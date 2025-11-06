@@ -12,8 +12,9 @@ A personal photography portfolio website showcasing my best captured moments wit
 
 ## 🛠️ Technologies Used
 
-- **HTML5**  
-- **CSS3**  
+- **HTML5**  - For webpage structure  
+- **CSS3**
+  
 ## 📁 Project Structure
 
 - `/images` → Contains all portfolio images  
