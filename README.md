@@ -33,6 +33,7 @@ A personal photography portfolio website showcasing my best captured moments wit
 ## ✨ Future Enhancements
 
 - Add category filters (e.g., nature, portraits, travel)
+- Include JavaScript animations for transitions
 
   
 ## 👩‍💻 Developed by
