@@ -13,7 +13,7 @@ A personal photography portfolio website showcasing my best captured moments wit
 ## 🛠️ Technologies Used
 
 - **HTML5**  - For webpage structure  
-- **CSS3**
+- **CSS3**   - For styling, layout, and responsiveness  
   
 ## 📁 Project Structure
 
