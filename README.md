@@ -25,7 +25,7 @@ A personal photography portfolio website showcasing my best captured moments wit
 ## 🚀 How to Run
 
 1. Download or clone the repository:  
-   `git clone https://github.com/Prakruthi-G-H/Photography-portfolio.git`
+   `git clone https://github.com/Prakruthi-G-H/photography-portfolio.git`
 
 2. Open the folder in any browser or use Live Server in VS Code  
 3. Open `Photography.html` to view the homepage  
