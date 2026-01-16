@@ -18,7 +18,7 @@ A personal photography portfolio website showcasing my best captured moments wit
 ## 📁 Project Structure
 
 - `/images` → Contains all portfolio images  
-- `Photography.html` → Main HTML file 
+- `index.html` → Main HTML file 
 - `Photography.css` → Main stylesheet 
 - `README.md` → Project documentation
 
