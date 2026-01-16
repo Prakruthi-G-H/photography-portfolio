@@ -28,7 +28,7 @@ A personal photography portfolio website showcasing my best captured moments wit
    `git clone https://github.com/Prakruthi-G-H/photography-portfolio.git`
 
 2. Open the folder in any browser or use Live Server in VS Code  
-3. Open `Photography.html` to view the homepage  
+3. Open `index.html` to view the homepage  
 4. No backend or server setup required
 
 ## ✨ Future Enhancements
