@@ -5,7 +5,7 @@ A personal photography portfolio website designed to showcase my best captured m
 ## 🌟 Features
 
 - 🏠 **Home Section** – Welcome message with a background image
-- 🖼️ **Portfolio Gallery** – Multiple images displayed in a grid layout
+- 🖼️ **Portfolio Gallery** – Image grid layout to display photographs neatly
 - 🙋‍♀️ **About Me** – Short intro and purpose
 - 📬 **Contact Form** – Simple form with name, email, and message fields
 - 🎨 **Responsive Design** – Works on different screen sizes
