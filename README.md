@@ -38,7 +38,7 @@ A personal photography portfolio website designed to showcase my best captured m
 - Integrate backend support (Java + MySQL) for storing contact form data
 
   
-## 👩‍💻 Developed by
+## 👩‍💻 Developed By
 
 **Prakruthi G H**  
 📍 Bangalore, India  
