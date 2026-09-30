@@ -42,6 +42,7 @@ git clone https://github.com/Prakruthi-G-H/photography-portfolio.git
 
 - Add category filters (Nature, Portraits, Travel, etc.)
 - Add smooth animations using JavaScript
+- Add a lightbox feature for viewing photographs
 - Integrate backend support (Java + MySQL) for storing contact form data
 - Add dark mode support
 
