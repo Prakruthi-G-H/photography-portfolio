@@ -15,7 +15,7 @@ The project demonstrates responsive web design, semantic HTML, CSS layouts, and 
 
 ## 🛠️ Technologies Used
 
-- **HTML5**  - Structure and semantic layout
+- **HTML5** – Semantic structure and webpage content
 - **CSS3**   - Styling, layout, and responsive design
   
 ## 📁 Project Structure
