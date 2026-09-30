@@ -10,7 +10,7 @@ The project demonstrates responsive web design, semantic HTML, CSS layouts, and 
 - 🖼️ Image grid layout to display photographs neatly
 - 🙋‍♀️ About Me section
 - 📬 Contact form with Name, Email, and Message fields
-
+- 📱 Responsive Design – Adapts to different screen sizes and devices
 
 ## 🛠️ Technologies Used
 
