@@ -11,6 +11,7 @@ The project demonstrates responsive web design, semantic HTML, CSS layouts, and 
 - 🙋‍♀️ About Me section
 - 📬 Contact form with Name, Email, and Message fields
 - 📱 Responsive Design – Adapts to different screen sizes and devices
+- 🎨 Clean UI – Simple and visually appealing photography-focused design
 
 ## 🛠️ Technologies Used
 
